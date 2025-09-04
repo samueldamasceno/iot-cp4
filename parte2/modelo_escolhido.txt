@@ -1,0 +1,5 @@
+Escolhemos Decision Tree porque é mais simples e fácil de implementar no ESP32. Nos testes que fizemos, a Decision Tree pareceu mais capaz de classificar corretamente os dados com uma boa interpretação, o que consideramos adequado para implementar no hardware
+
+// Felipe Prometti - rm555174
+// Iris Tavares - rm557728
+// Samuel Damasceno - rm558876

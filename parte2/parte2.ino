@@ -1,3 +1,7 @@
+// Felipe Prometti - rm555174
+// Iris Tavares - rm557728
+// Samuel Damasceno - rm558876
+
 #include <Arduino.h>
 #include <math.h>
  
